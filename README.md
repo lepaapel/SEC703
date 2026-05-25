@@ -1,7 +1,7 @@
 # SEC703
 
 Структура
-'''
+```
 SEC703/
 ├── README.md
 ├── leonid.pustovalov/
@@ -14,4 +14,4 @@ SEC703/
 └── firstname.lastname/
     └── lab1/
         └── lab1_1.txt
-'''
+```
